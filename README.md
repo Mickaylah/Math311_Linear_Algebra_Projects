@@ -12,4 +12,4 @@ https://github.com/Mickaylah/Math311_Linear_Algebra_Projects/blob/main/Copy_of_M
 2: The Ski Hill Example:  MOdeling future behavior using transition matrices.
 
 Using Google Co-Laboratory to introduce the idea of transition matrices with code:
-https://github.com/Mickaylah/Math311_Linear_Algebra_Projects/blob/main/Copy_of_The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
+https://colab.research.google.com/github/Mickaylah/Math311_Linear_Algebra_Projects/blob/main/Copy_of_The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb#scrollTo=Ow3cez7K4IFK
